@@ -1,0 +1,5 @@
+sum of first n natural no.
+sum of n natural no.
+even odd
+positive and neagtive
+range given sum find
